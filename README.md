@@ -1,4 +1,4 @@
-# 🚀 Pipeline de Dados (contexto do projeto)
+# 🚀 Pipeline de Dados
 
 ![Arquitetura](./arquitetura_simplificada.png)
 
