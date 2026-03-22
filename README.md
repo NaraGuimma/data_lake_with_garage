@@ -55,7 +55,7 @@ O **Garage atua como o Data Lake (S3)** da arquitetura.
 
 ---
 
-# 🥈 Camada Silver (o que seu código faz)
+# 🥈 Camada Silver
 
 
 ## 🥈 Camada Silver — Transformação com DuckDB
